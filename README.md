@@ -1,3 +1,4 @@
 # college_DEMO
-its a demo
-my first git repo
+its a demo.
+<br><u>
+my first git repo.</u>
